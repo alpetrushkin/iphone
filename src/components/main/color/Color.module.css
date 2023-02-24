@@ -1,0 +1,9 @@
+.color {}
+
+.colorTitle {
+   font-weight: 700;
+   font-size: 32px;
+   line-height: 39px;
+   color: #717171;
+   margin: 0 0 150px;
+}

@@ -1,0 +1,22 @@
+footer {
+
+   background-color: #0A0A0A;
+
+}
+
+.footerBox {
+   height: 150px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.footerInfo {
+}
+
+.footerLogo {
+   color: #FFFFFF;
+}
+
+.footerTel {
+}
